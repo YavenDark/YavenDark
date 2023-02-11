@@ -18,7 +18,7 @@
         <li>💬 Ask me about HTML, CSS, JavaScript</li>
     </ul>
     <ul>
-        <li>- ⚡ Fun fact I like to much see the sky</li>
+        <li>⚡ Fun fact I like to much see the sky</li>
     </ul>
 </div>
 <div align="left">
