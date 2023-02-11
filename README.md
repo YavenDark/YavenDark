@@ -23,7 +23,7 @@
 </div>
 <div align="left">
     <h3>Lenguages and tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" tittle="React" alt="React" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" tittle="React" alt="React" width="60" height="60" href="www.google.com"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
