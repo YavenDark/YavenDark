@@ -1,5 +1,5 @@
 <div id="header" >
-    <h1 aling="center">
+    <h1 align="center">
         Hi there 👋 I am Jafet Rodriguez 
     </h1>
     <h3>
