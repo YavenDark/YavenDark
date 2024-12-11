@@ -9,7 +9,7 @@
         <li>🔭 I’m a Tecnichal in Systems interesed in FullStack Development</li>
     </ul>
     <ul>
-        <li>🌱 I’m currently learning React.js Node.js Express (MERN)</li>
+        <li>🌱 I’m currently learning AWS Bedrock</li>
     </ul>
     <ul>
         <li>💬 Ask me about HTML, CSS, JavaScript, React, NodeJs, AWS, Go</li>
