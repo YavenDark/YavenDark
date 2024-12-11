@@ -3,7 +3,7 @@
         Hi there 👋 I am Jafet Rodriguez 
     </h1>
     <h3>
-        developer passionate about learn every day some new
+        developer FullStack
     </h3>
     <ul>
         <li>🔭 I’m a Tecnichal in Systems interesed in FullStack Development</li>
@@ -12,10 +12,7 @@
         <li>🌱 I’m currently learning React.js Node.js Express (MERN)</li>
     </ul>
     <ul>
-        <li>🤔 I’m looking for help with React</li>
-    </ul>
-    <ul>
-        <li>💬 Ask me about HTML, CSS, JavaScript, React, NodeJs</li>
+        <li>💬 Ask me about HTML, CSS, JavaScript, React, NodeJs, AWS, Go</li>
     </ul>
     <ul>
         <li>⚡ Fun fact I like to much see the sky</li>
